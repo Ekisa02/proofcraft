@@ -1,0 +1,15 @@
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.db
+*.db-shm
+*.db-wal
+*.env
+*.log
+/vendor/
+.idea/
+.vscode/
+*.test
